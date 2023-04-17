@@ -11,12 +11,12 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hello, My Name Is Darian Brown . I am a
+            Hello, My name is Darian Brown. I am a
             Frontend Developer. I build websites and apps with Swift, React and
             Tailwind CSS.
           </p>
           <p className="pb-5">
-            I am proficient in Frontend skills like React.js, Redux, Redux Tool
+            I am proficient in Frontend skills such as React.js, Redux, Redux Tool
             Kit, Tailwind CSS, Swift, and many more.
           </p>
 
