@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/icarus014.github,io/react-portfolio/static/css/main.590dc6c8.css",
-    "main.js": "/icarus014.github,io/react-portfolio/static/js/main.27b2fe0f.js",
-    "static/js/787.a2cb61a6.chunk.js": "/icarus014.github,io/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/screenshot.png": "/icarus014.github,io/react-portfolio/static/media/screenshot.82fc27424689710a98d6.png",
-    "static/media/uilogs.png": "/icarus014.github,io/react-portfolio/static/media/uilogs.025de7250e37d453f142.png",
-    "static/media/cssprojects.png": "/icarus014.github,io/react-portfolio/static/media/cssprojects.b52d97b17ca3d3f61da9.png",
-    "static/media/hero-img.png": "/icarus014.github,io/react-portfolio/static/media/hero-img.b9f2bfdaf4893b38656f.png",
-    "static/media/about-img.png": "/icarus014.github,io/react-portfolio/static/media/about-img.48987bfb78f4123db271.png",
-    "static/media/get-inspirred.png": "/icarus014.github,io/react-portfolio/static/media/get-inspirred.f846f61fe056230b0b6e.png",
-    "index.html": "/icarus014.github,io/react-portfolio/index.html",
-    "main.590dc6c8.css.map": "/icarus014.github,io/react-portfolio/static/css/main.590dc6c8.css.map",
-    "main.27b2fe0f.js.map": "/icarus014.github,io/react-portfolio/static/js/main.27b2fe0f.js.map",
-    "787.a2cb61a6.chunk.js.map": "/icarus014.github,io/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/icarus014.github.io/react-portfolio/static/css/main.590dc6c8.css",
+    "main.js": "/icarus014.github.io/react-portfolio/static/js/main.c9e31ca7.js",
+    "static/js/787.a2cb61a6.chunk.js": "/icarus014.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/screenshot.png": "/icarus014.github.io/react-portfolio/static/media/screenshot.82fc27424689710a98d6.png",
+    "static/media/uilogs.png": "/icarus014.github.io/react-portfolio/static/media/uilogs.025de7250e37d453f142.png",
+    "static/media/cssprojects.png": "/icarus014.github.io/react-portfolio/static/media/cssprojects.b52d97b17ca3d3f61da9.png",
+    "static/media/hero-img.png": "/icarus014.github.io/react-portfolio/static/media/hero-img.b9f2bfdaf4893b38656f.png",
+    "static/media/about-img.png": "/icarus014.github.io/react-portfolio/static/media/about-img.48987bfb78f4123db271.png",
+    "static/media/get-inspirred.png": "/icarus014.github.io/react-portfolio/static/media/get-inspirred.f846f61fe056230b0b6e.png",
+    "index.html": "/icarus014.github.io/react-portfolio/index.html",
+    "main.590dc6c8.css.map": "/icarus014.github.io/react-portfolio/static/css/main.590dc6c8.css.map",
+    "main.c9e31ca7.js.map": "/icarus014.github.io/react-portfolio/static/js/main.c9e31ca7.js.map",
+    "787.a2cb61a6.chunk.js.map": "/icarus014.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.590dc6c8.css",
-    "static/js/main.27b2fe0f.js"
+    "static/js/main.c9e31ca7.js"
   ]
 }
