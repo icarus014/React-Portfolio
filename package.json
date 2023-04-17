@@ -1,6 +1,6 @@
 {
-  "homepage": "https://react-portfolio-one-lac.vercel.app/",
   "name": "react-portfolio",
+  "homepage": "https://react-portfolio-one-lac.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
