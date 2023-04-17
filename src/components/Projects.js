@@ -48,7 +48,7 @@ const Projects = () => {
 
           <p className="pb-5">
             These are some of my projects that I have built with React,
-            MERN and vanilla CSS. Check them out.
+            MERN and vanilla CSS. Check them out!
           </p>
         </div>
 

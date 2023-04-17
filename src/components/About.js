@@ -17,7 +17,7 @@ const About = () => {
           </p>
           <p className="pb-5">
             I am proficient in Frontend skills like React.js, Redux, Redux Tool
-            Kit, Tailwind CSS, Swift, many more.
+            Kit, Tailwind CSS, Swift, and many more.
           </p>
 
           <p>As for backend development, I have experience in Node.js, Express.js, MongoDB, and Mongoose</p>
