@@ -23,7 +23,7 @@ const About = () => {
           <p>As for backend development, I have experience in Node.js, Express.js, MongoDB, and Mongoose</p>
     <br/>
           <p>
-            In my spare time I make music using FL Studio and Ableton, and also play video games occassionaly!
+            In my spare time I make music using FL Studio and Ableton, weight lift, and also play video games occassionally!
           </p>
         </div>
 
