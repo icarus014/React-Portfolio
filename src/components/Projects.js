@@ -1,9 +1,8 @@
 import React from "react";
 import cssProjects from "../assets/cssprojects.png";
-// import devlog from "../assets/devlog.png";
 import getInspirred from "../assets/get-inspirred.png";
-import uilogs from "../assets/uilogs.png";
 import colorGuesser from '../assets/screenshot.png'
+import weather from '../assets/weather-app.png'
 
 
 const Projects = () => {
@@ -16,11 +15,11 @@ const Projects = () => {
           code: "https://github.com/icarus014/first-milestone",
         },
         {
-          img: uilogs,
-          title: "uilogs",
-          desc: "Free website template directory for SaaS and Degital Agency. Built with Bootstrap, JQuery and JavaScript",
-          live: "https://uilogs.xyz/",
-          code: "https://github.com/Coderamrin/html-templates",
+          img: weather,
+          title: "Weather App",
+          desc: "Weather App created with React, as part of one of my group milestone projects.",
+          live: "https://weatherapp-six-iota.vercel.app/",
+          code: "https://github.com/moesarsour/weatherapp",
         },
         {
           img: cssProjects,
@@ -31,10 +30,10 @@ const Projects = () => {
         },
         {
           img: getInspirred,
-          title: "get Inspirred",
-          desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
-          live: "https://get-inspirred.netlify.app/",
-          code: "https://github.com/Coderamrin/get-inspired",
+          title: "Bread CRUD Project",
+          desc: "Project allows user to Create, Read, Update, and Delete different types of bread, as well as their bakers.",
+          live: "",
+          code: "https://github.com/icarus014/Bread-CRUD-Project",
         },
       ]; 
 
