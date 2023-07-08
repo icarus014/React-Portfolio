@@ -1,5 +1,4 @@
 import React from "react";
-import cssProjects from "../assets/cssprojects.png";
 import getInspirred from "../assets/get-inspirred.png";
 import colorGuesser from '../assets/screenshot.png'
 import weather from '../assets/weather-app.png'
@@ -26,7 +25,7 @@ const Projects = () => {
           img: color,
           title: "Color Flipper",
           desc: "Random Color Generater, designed with vanilla CSS and JS",
-          live: "https://build-10-css-projects.netlify.app/",
+          live: "https://icarus014.github.io/color-flipper/",
           code: "https://github.com/Coderamrin/build-10-css-projects",
         },
         {
